@@ -1,0 +1,65 @@
+body,
+html {
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.users-container {
+  margin: 20px;
+}
+
+.search-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.search-container input {
+  width: 400px;
+  height: 40px;
+  /* background-color: #ccc; */
+  border: 10px solid rgb(153, 182, 235);
+  border-radius: 5px;
+}
+
+table {
+  width: 98%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+tr {
+  height: 50px;
+  border-bottom: 1px solid black;
+}
+
+th {
+  text-align: left;
+  background-color: slateblue;
+}
+
+.users-list {
+  margin: 20px;
+  padding: 0;
+}
+
+.user-details {
+  background-color: #ccc;
+  margin: 0 auto;
+  width: 500px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.user-details h1 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: slateblue;
+}

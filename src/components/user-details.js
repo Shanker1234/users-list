@@ -7,7 +7,7 @@ const UserDetails = (props) => {
 
   return (
     <div className="user-details">
-      <Link to="/users-list">Back to users</Link>
+      <Link to="/users-list/">Back to users</Link>
       <h1>{user.name}</h1>
       <p>
         <strong>About: </strong> {user.about}

@@ -2,7 +2,7 @@
   "name": "users-list-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Shanker1234.github.io/users-list",
+  "homepage": "https://Shanker1234.github.io/users-list/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
